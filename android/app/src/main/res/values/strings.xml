@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_title">PillTrack</string>
+    <string name="widget_picker_label">Today\'s doses</string>
+    <string name="widget_description">Today\'s upcoming doses at a glance</string>
+    <string name="widget_open_app">Open PillTrack to see today\'s doses</string>
+    <string name="widget_get_started">Add a medicine in PillTrack to get started</string>
+    <!-- %1$s = dose, e.g. "1 Tablet". The time is shown separately. -->
+    <string name="widget_due">Due · %1$s</string>
+    <string name="widget_more">+%1$d more today</string>
+</resources>
